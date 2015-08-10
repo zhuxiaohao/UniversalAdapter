@@ -6,7 +6,7 @@ package zhuxiaohao.com.cn.universaladapter.recyclerview;
  * Date:15/8/10下午2:4308
  * blog:http://blog.csdn.net/qq718799510?viewmode=contents
  * Copyright (c) 2015, zhuxiaohao All Rights Reserved.
- * 测试哈子
+ * 测试哈子 你这个大傻逼
  */
 public abstract class BaseQuickAdapter <T, H extends BaseAdapterHelper> extends RecyclerView.Adapter<BaseAdapterHelper> implements View.OnClickListener{
             protected static final String TAG = BaseQuickAdapter.class.getSimpleName();
